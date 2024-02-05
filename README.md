@@ -49,6 +49,8 @@ NLTK (Natural Language Toolkit), doğal dil işleme (NLP) uygulamaları gelişti
 
 NLTK, geniş bir topluluk tarafından desteklenmekte ve sürekli olarak güncellenmektedir. Bu nedenle, NLP uygulamaları geliştirmek isteyen geliştiriciler için güvenilir bir kaynaktır. Ancak, son dönemde diğer popüler NLP kütüphaneleri de gelişmiş ve kullanım açısından daha kolay hale gelmiştir, bu yüzden projenin ihtiyaçlarına en uygun kütüphaneyi seçmek önemlidir. Gereksiz yere kütüphane kullanmanın da olumsuz etkileri vardır.
 
+Daha fazla araştırma yapmak için [NLTK](https://www.nltk.org/index.html) sitesini ziyaret edebilirsiniz. 
+
 #### EK BİLGİ : Gereksiz Kütüphane Kullanımı 
 * **Proje Boyutu ve Performans:** Gereksiz kütüphaneleri projenize eklemek, proje boyutunu artırabilir ve gereksiz kaynak kullanımına yol açabilir. Bu durum, projenizin performansını etkileyebilir, özellikle de büyük veri setleri veya düşük kaynaklı cihazlarla çalışılıyorsa.
 
@@ -60,7 +62,7 @@ NLTK, geniş bir topluluk tarafından desteklenmekte ve sürekli olarak güncell
 
 * **Gereksiz Özellikler:** Gereksiz kütüphaneler, projenizin ihtiyaçlarına uygun olmayan özellikleri içerebilir. Bu durum, projenizin gereksiz karmaşıklığı artırabilir ve kullanıcılara istemedikleri veya kullanmadıkları özelliklerle karşılaşma riski verebilir.
 
-Daha fazla araştırma yapmak için [NLTK](https://www.nltk.org/index.html) sitesini ziyaret edebilirsiniz. 
+
 
 
 ### TextBlob
