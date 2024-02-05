@@ -160,6 +160,6 @@ Verileri yorumlamak istersek :
 * **summary :** Yorumların özeti niteliğinde tanımlanmış değişken
 * **unixReviewTime :** Yorumun Unix zaman damgasını(timestamp) ifade eden değişken (Unix zaman damgası, 1970-01-01 00:00:00'den itibaren geçen saniye sayısını temsil eder. Bu tür bir zaman temsil biçimi genellikle hesaplama ve karşılaştırma işlemlerinde kullanılır. Bu sütundaki değerler, yorumun ne zaman yapıldığını gösterir.)
 * **reviewTime :** Yorumun yazıldığı tarihi ifade eden  değişken
-* **day_diff :** Yorumun yapıldığı tarih ile referans tarih arasındaki gün sayısını gösterir. (Genellikle, referans tarih, veri setinin incelendiği tarihi temsil eder.)
+* **day_diff :** Yorumun yapıldığı tarih ile referans tarih arasındaki gün sayısını gösteren değişken (Genellikle, referans tarih, veri setinin incelendiği tarihi temsil eder.)
 
 
