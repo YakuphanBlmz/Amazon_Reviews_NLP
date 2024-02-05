@@ -60,4 +60,6 @@ NLTK, geniş bir topluluk tarafından desteklenmekte ve sürekli olarak güncell
 
 * **Gereksiz Özellikler:** Gereksiz kütüphaneler, projenizin ihtiyaçlarına uygun olmayan özellikleri içerebilir. Bu durum, projenizin gereksiz karmaşıklığı artırabilir ve kullanıcılara istemedikleri veya kullanmadıkları özelliklerle karşılaşma riski verebilir.
 
+Daha fazla araştırma yapmak için [NLTK](https://www.nltk.org/index.html) sitesini ziyaret edebilirsiniz. 
+
 
