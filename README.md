@@ -21,7 +21,7 @@ Metinleri analiz ederek çok değerli veriler elde edebiliriz.
 Bahsettiğimiz gibi NLP'nin bir çok farklı alanı vardır. Ben ise bu aşamada "Metin Sınıflandırma" ve "Duygu Analizi" konusuna odaklanacağım. Ele aldığımız bu konuları uçtan uca bir gerçek bir Amazon verisi üzerinden gerçekleştireceğiz. Projemizin sonunda elde ettiğimiz çıktı bir duygu analizi(Sentiment Analysis) ve duygu modellemesi(Sentiment Modeling) olacaktır. Amazondaki bir ürünün yorumlarına odaklanarak bu çıkarımlarda bulunacağız.
 
 ### Süreç 
-Bir metin sınıflandırma süreci, veri bilimi sürecine oldukça benzerdir. Veriyi elde etme aşamasından sonra, metinler ön işleme aşamasından geçirilir. Ardından metin görselleştirme işlemleri yapılır ve ilgili konudaki analiz uygulanır. Bir makine öğrenmesi veya bir modelleme süreci varsa özellik mühendisliği yapılır ve sonrasında neticesinde modelleme yapılır. Bu adımları maddeler halinde listelemek istersek :
+Bir metin sınıflandırma süreci, veri bilimi sürecine oldukça benzerdir. Veriyi elde etme aşamasından sonra, metinler ön işleme aşamasından geçirilir. Ardından metin görselleştirme işlemleri yapılır ve ilgili konudaki analiz uygulanır. Bir makine öğrenmesi veya bir modelleme süreci varsa özellik mühendisliği yapılır ve neticesinde modelleme yapılır. Bu adımları maddeler halinde listelemek istersek :
 
 1. **Text Preprocessing**
 2. **Text Visualization**
