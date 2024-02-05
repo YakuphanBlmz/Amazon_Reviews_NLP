@@ -93,7 +93,7 @@ TextBlob'un bazı durumlarda daha spesifik veya gelişmiş NLP görevleri için 
 ### WordCloud
 WordCloud, Python dilinde metin verilerinden kelime bulutları oluşturmak için kullanılan bir kütüphanedir. Bu kütüphane, metin içerisinde geçen kelimelerin frekansına göre görsel olarak temsil edilen bir kelime bulutu oluşturmak için kullanılır. 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOeAeDTc-RMRvoIO5KLPiy80VJxl4vABoIw&usqp=CAU" alt="Word Cloud" width=320" height="180">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOeAeDTc-RMRvoIO5KLPiy80VJxl4vABoIw&usqp=CAU" alt="Word Cloud" width="1024" height="562">
 
 İşte WordCloud'un temel özellikleri ve kullanılmasının nedenleri:
 
