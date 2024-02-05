@@ -97,4 +97,22 @@ WordCloud, Python dilinde metin verilerinden kelime bulutları oluşturmak için
 
 İşte WordCloud'un temel özellikleri ve kullanılmasının nedenleri:
 
+* **Görsel Temsil:** WordCloud, metin içerisinde geçen kelimeleri bir görsel olarak temsil eder. Bu sayede metindeki önemli kelimelerin ve kelimeler arasındaki ilişkilerin hızlıca anlaşılmasını sağlar.
+
+* **Frekans Analizi:** Kelime bulutları, metindeki kelimelerin frekanslarına göre büyüklükleri belirleyerek önem sırasına koymak için kullanılır. Bu, metindeki anahtar kelimeleri ve konuları hemen farkedebilmenizi sağlar.
+
+* **Veri Görselleştirme:** WordCloud, metin madenciliği ve veri analizi uygulamalarında kullanılarak büyük metin verilerini hızlı bir şekilde görselleştirmenizi sağlar. Metindeki önemli kelimeleri belirlemek ve anlamak için güçlü bir araçtır.
+
+* **Proje Analizi ve Raporlama:** WordCloud'lar, projelerinizde veya raporlarınızda metin verilerini görselleştirmek için kullanılabilir. Özellikle kelime bulutları, bir projenin ana temasını veya bir metnin öne çıkan konularını vurgulamak için kullanışlıdır.
+
+* **Gelişmiş Özelleştirme:** WordCloud kütüphanesi, oluşturulan kelime bulutlarını özelleştirmek için bir dizi seçenek sunar. Renk paletleri, şekil seçenekleri, frekans filtreleme ve diğer özelliklerle kelime bulutları istenilen şekilde uyarlanabilir.
+
+* **Dil Bağımsız:** WordCloud, birçok dilde metin verileriyle çalışabilir. Bu özellik, çok dilli projelerde veya çok dilli metin verileriyle çalışırken avantaj sağlar.
+
+WordCloud için iki adet kaynak önerebilirim. Bunlar : 
+* [PyPI](https://pypi.org/project/wordcloud/)
+* [Andreas C. Müller Github](https://amueller.github.io/word_cloud/)
+
+
+
 
