@@ -93,7 +93,7 @@ TextBlob'un bazı durumlarda daha spesifik veya gelişmiş NLP görevleri için 
 ### WordCloud
 WordCloud, Python dilinde metin verilerinden kelime bulutları oluşturmak için kullanılan bir kütüphanedir. Bu kütüphane, metin içerisinde geçen kelimelerin frekansına göre görsel olarak temsil edilen bir kelime bulutu oluşturmak için kullanılır. 
 
-![Word Cloud]([http://url/to/img.png](https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/illu_wordclouds_blog-66-1024x562.webp)https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/illu_wordclouds_blog-66-1024x562.webp)
+![Word Cloud]([[http://url/to/img.png](https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/illu_wordclouds_blog-66-1024x562.webp)https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/illu_wordclouds_blog-66-1024x562.webp](https://img.pixers.pics/pho_wat(s3:700/FO/51/62/73/29/700_FO51627329_1eb34fbedad82e5cee2e2b2eaccdcfb8.jpg,700,481,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,431,jpg)/duvar-resimleri-word-cloud-quot-veri-analizi-quot.jpg.jpg)https://img.pixers.pics/pho_wat(s3:700/FO/51/62/73/29/700_FO51627329_1eb34fbedad82e5cee2e2b2eaccdcfb8.jpg,700,481,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,431,jpg)/duvar-resimleri-word-cloud-quot-veri-analizi-quot.jpg.jpg)
 
 İşte WordCloud'un temel özellikleri ve kullanılmasının nedenleri:
 
