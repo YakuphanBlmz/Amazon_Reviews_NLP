@@ -49,6 +49,8 @@ NLTK (Natural Language Toolkit), doğal dil işleme (NLP) uygulamaları gelişti
 
 NLTK, geniş bir topluluk tarafından desteklenmekte ve sürekli olarak güncellenmektedir. Bu nedenle, NLP uygulamaları geliştirmek isteyen geliştiriciler için güvenilir bir kaynaktır. Ancak, son dönemde diğer popüler NLP kütüphaneleri de gelişmiş ve kullanım açısından daha kolay hale gelmiştir, bu yüzden projenin ihtiyaçlarına en uygun kütüphaneyi seçmek önemlidir. Gereksiz yere kütüphane kullanmanın da olumsuz etkileri vardır.
 
+Daha fazla araştırma yapmak için [NLTK](https://www.nltk.org/index.html) sitesini ziyaret edebilirsiniz. 
+
 #### EK BİLGİ : Gereksiz Kütüphane Kullanımı 
 * **Proje Boyutu ve Performans:** Gereksiz kütüphaneleri projenize eklemek, proje boyutunu artırabilir ve gereksiz kaynak kullanımına yol açabilir. Bu durum, projenizin performansını etkileyebilir, özellikle de büyük veri setleri veya düşük kaynaklı cihazlarla çalışılıyorsa.
 
@@ -60,7 +62,7 @@ NLTK, geniş bir topluluk tarafından desteklenmekte ve sürekli olarak güncell
 
 * **Gereksiz Özellikler:** Gereksiz kütüphaneler, projenizin ihtiyaçlarına uygun olmayan özellikleri içerebilir. Bu durum, projenizin gereksiz karmaşıklığı artırabilir ve kullanıcılara istemedikleri veya kullanmadıkları özelliklerle karşılaşma riski verebilir.
 
-Daha fazla araştırma yapmak için [NLTK](https://www.nltk.org/index.html) sitesini ziyaret edebilirsiniz. 
+
 
 
 ### TextBlob
@@ -93,8 +95,26 @@ TextBlob'un bazı durumlarda daha spesifik veya gelişmiş NLP görevleri için 
 ### WordCloud
 WordCloud, Python dilinde metin verilerinden kelime bulutları oluşturmak için kullanılan bir kütüphanedir. Bu kütüphane, metin içerisinde geçen kelimelerin frekansına göre görsel olarak temsil edilen bir kelime bulutu oluşturmak için kullanılır. 
 
-![Word Cloud]([http://url/to/img.png](https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/illu_wordclouds_blog-66-1024x562.webp)https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/illu_wordclouds_blog-66-1024x562.webp)
+<img src="https://miro.medium.com/v2/resize:fit:1358/0*1NkpAO55_vSV_vRF.jpeg" alt="Word Cloud" width="1024" height="562">
 
 İşte WordCloud'un temel özellikleri ve kullanılmasının nedenleri:
+
+* **Görsel Temsil:** WordCloud, metin içerisinde geçen kelimeleri bir görsel olarak temsil eder. Bu sayede metindeki önemli kelimelerin ve kelimeler arasındaki ilişkilerin hızlıca anlaşılmasını sağlar.
+
+* **Frekans Analizi:** Kelime bulutları, metindeki kelimelerin frekanslarına göre büyüklükleri belirleyerek önem sırasına koymak için kullanılır. Bu, metindeki anahtar kelimeleri ve konuları hemen farkedebilmenizi sağlar.
+
+* **Veri Görselleştirme:** WordCloud, metin madenciliği ve veri analizi uygulamalarında kullanılarak büyük metin verilerini hızlı bir şekilde görselleştirmenizi sağlar. Metindeki önemli kelimeleri belirlemek ve anlamak için güçlü bir araçtır.
+
+* **Proje Analizi ve Raporlama:** WordCloud'lar, projelerinizde veya raporlarınızda metin verilerini görselleştirmek için kullanılabilir. Özellikle kelime bulutları, bir projenin ana temasını veya bir metnin öne çıkan konularını vurgulamak için kullanışlıdır.
+
+* **Gelişmiş Özelleştirme:** WordCloud kütüphanesi, oluşturulan kelime bulutlarını özelleştirmek için bir dizi seçenek sunar. Renk paletleri, şekil seçenekleri, frekans filtreleme ve diğer özelliklerle kelime bulutları istenilen şekilde uyarlanabilir.
+
+* **Dil Bağımsız:** WordCloud, birçok dilde metin verileriyle çalışabilir. Bu özellik, çok dilli projelerde veya çok dilli metin verileriyle çalışırken avantaj sağlar.
+
+WordCloud için iki adet kaynak önerebilirim. Bunlar : 
+* [PyPI](https://pypi.org/project/wordcloud/)
+* [Andreas C. Müller Github](https://amueller.github.io/word_cloud/)
+
+
 
 
