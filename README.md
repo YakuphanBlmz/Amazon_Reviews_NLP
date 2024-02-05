@@ -63,3 +63,38 @@ NLTK, geniş bir topluluk tarafından desteklenmekte ve sürekli olarak güncell
 Daha fazla araştırma yapmak için [NLTK](https://www.nltk.org/index.html) sitesini ziyaret edebilirsiniz. 
 
 
+### TextBlob
+TextBlob, Python dilinde doğal dil işleme (NLP) görevlerini gerçekleştirmek için kullanılan bir kütüphanedir. TextBlob, dil işleme görevlerini kolaylaştıran bir arayüz sağlar ve bir dizi özellik içerir. İşte TextBlob'un temel özellikleri:
+
+* **Basit ve Kullanımı Kolay:** TextBlob, NLP görevlerini gerçekleştirmek için basit bir API sağlar. Bu sayede kullanıcılar, dil işleme işlemlerini daha hızlı ve daha az kodla gerçekleştirebilirler.
+
+* **Metin Analizi:** TextBlob, metin analizi için bir dizi araç ve fonksiyon içerir. Metin analizi, metinlerdeki duyguları belirleme, cümle yapısı analizi, kelime frekansı ve sıklığı gibi görevleri kapsar.
+
+* **Duygu Analizi:** TextBlob, metinlerdeki duygusal tonları analiz edebilir. Metin içindeki ifadeleri pozitif, negatif veya nötr olarak sınıflandırabilir.
+
+* **Kelime Dağarcığı:** TextBlob, bir kelimenin anlamını, eşanlamlılarını ve kelime türünü belirleme gibi kelime düzeyinde analizler yapabilir.
+
+* **Metin Sınıflandırma:** TextBlob, belirli bir metni önceden tanımlanmış kategorilere sınıflandırmak için kullanılabilir. Bu, spam filtreleme, duygu analizi ve konu sınıflandırma gibi uygulamalarda kullanışlıdır.
+
+* **Konu Çıkarma:** TextBlob, bir metnin ana konularını çıkarma yeteneğine sahiptir. Bu, büyük metin koleksiyonları üzerinde önemli konuları belirlemek için kullanılabilir.
+
+* **Dil Tanıma:** TextBlob, metnin hangi dilde olduğunu tanımlama yeteneğine sahiptir. Bu özellik, çok dilli uygulamalarda veya çok dilde veri üzerinde çalışırken kullanışlıdır.
+
+Temel özellikleri bu şekilde. Peki iyi de neden kullanalım. Çünkü :
+
+* **Hızlı Prototip Oluşturma:** TextBlob, NLP görevlerini hızlı bir şekilde prototip oluşturmak için idealdir. Basit bir API ve kullanımı kolay fonksiyonları, karmaşık dil işleme görevlerini hızlı bir şekilde uygulamanıza olanak tanır.
+
+* **Başlangıç Seviyesi Kullanıcılar İçin Uygun:** TextBlob, özellikle dil işleme konusunda deneyimi olmayan veya başlangıç seviyesindeki kullanıcılar için uygundur. [Dökümantasyonu](https://textblob.readthedocs.io/en/dev/) açıklayıcıdır ve temel NLP görevlerini gerçekleştirmek için kullanıcı dostu bir arabirim sunar. 
+
+* **Kolay Kurulum:** TextBlob, temel NLP işlevselliğini sağlamak için gerekli olan birçok dil işleme aracını içerir. Bu nedenle, kullanıcıların ayrı ayrı dil modelleri veya kaynakları indirmelerine gerek kalmadan kolayca kullanılabilir.
+
+TextBlob'un bazı durumlarda daha spesifik veya gelişmiş NLP görevleri için yetersiz kalabilir(genelde de kalır). Projenizin ihtiyaçlarına bağlı olarak, daha spesifik veya özelleştirilebilir kütüphaneleri incelemek de faydalı olabilir.
+
+### WordCloud
+WordCloud, Python dilinde metin verilerinden kelime bulutları oluşturmak için kullanılan bir kütüphanedir. Bu kütüphane, metin içerisinde geçen kelimelerin frekansına göre görsel olarak temsil edilen bir kelime bulutu oluşturmak için kullanılır. 
+
+![Word Cloud]([http://url/to/img.png](https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/illu_wordclouds_blog-66-1024x562.webp)https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/illu_wordclouds_blog-66-1024x562.webp)
+
+İşte WordCloud'un temel özellikleri ve kullanılmasının nedenleri:
+
+
