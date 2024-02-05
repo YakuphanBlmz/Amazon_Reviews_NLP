@@ -37,7 +37,7 @@ Projeye başlayabilmemiz adına, doğal dil işlemede kullanılan yaygınca küt
 
 Her projede kütüphaneler eklenir fakat bu kütüphanelerin içeriğini bilmek de önemlidir. Dilerseniz eklediğimiz kütüphanelerin ne olduğuna bir bakalım.
 
-#### NLTK (Natural Language Toolkit)
+### NLTK (Natural Language Toolkit)
 NLTK (Natural Language Toolkit), doğal dil işleme (NLP) uygulamaları geliştirmek için kullanılan bir Python kütüphanesidir. NLTK, dil analizi, metin madenciliği, konuşma tanıma, çeviri ve daha birçok NLP görevi için araçlar ve kaynaklar sunar. İşte NLTK'nin temel özellikleri ve neden kullanılması gerektiğiyle ilgili bazı nedenler:
 
 * **Çok Kapsamlı Dil Veritabanı:** NLTK, dilbilimi ve dil işleme araştırmalarında kullanılan geniş bir dil veritabanına sahiptir. Bu, dil analizi ve işleme görevlerinde kullanılan modellerin ve kaynakların geniş bir yelpazesine erişim sağlar.
@@ -49,7 +49,7 @@ NLTK (Natural Language Toolkit), doğal dil işleme (NLP) uygulamaları gelişti
 
 NLTK, geniş bir topluluk tarafından desteklenmekte ve sürekli olarak güncellenmektedir. Bu nedenle, NLP uygulamaları geliştirmek isteyen geliştiriciler için güvenilir bir kaynaktır. Ancak, son dönemde diğer popüler NLP kütüphaneleri de gelişmiş ve kullanım açısından daha kolay hale gelmiştir, bu yüzden projenin ihtiyaçlarına en uygun kütüphaneyi seçmek önemlidir. Gereksiz yere kütüphane kullanmanın da olumsuz etkileri vardır.
 
-##### EK BİLGİ : Gereksiz Kütüphane Kullanımı 
+#### EK BİLGİ : Gereksiz Kütüphane Kullanımı 
 * **Proje Boyutu ve Performans:** Gereksiz kütüphaneleri projenize eklemek, proje boyutunu artırabilir ve gereksiz kaynak kullanımına yol açabilir. Bu durum, projenizin performansını etkileyebilir, özellikle de büyük veri setleri veya düşük kaynaklı cihazlarla çalışılıyorsa.
 
 * **Bağımlılıklar ve Güvenlik Riskleri:** Gereksiz kütüphaneler, projenizin dış bağımlılıklarını artırabilir. Bu, projenizin güvenliği için bir risk oluşturabilir, çünkü her bağımlılık potansiyel bir güvenlik açığı içerebilir. Ayrıca, projenizi güncel tutmak ve bağımlılıkları yönetmek daha zor olabilir.
