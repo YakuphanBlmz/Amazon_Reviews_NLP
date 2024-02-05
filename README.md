@@ -23,11 +23,11 @@ Bahsettiğimiz gibi NLP'nin bir çok farklı alanı vardır. Ben ise bu aşamada
 ### Süreç 
 Bir metin sınıflandırma süreci, veri bilimi sürecine oldukça benzerdir. Veriyi elde etme aşamasından sonra, metinler ön işleme aşamasından geçirilir. Ardından metin görselleştirme işlemleri yapılır ve ilgili konudaki analiz uygulanır. Bir makine öğrenmesi veya bir modelleme süreci varsa özellik mühendisliği yapılır ve sonrasında neticesinde modelleme yapılır. Bu adımları maddeler halinde listelemek istersek :
 
-1. Text Preprocessing
-2. Text Visualization
-3. Sentiment Analysis
-4. Feature Engineering
-5. Sentiment Modeling
+**1. Text Preprocessing**
+**2. Text Visualization**
+**3. Sentiment Analysis**
+**4. Feature Engineering**
+**5. Sentiment Modeling**
 
 Projeye başlayabilmemiz adına, doğal dil işlemede kullanılan yaygınca kütüphanelerin indirilmesi gerekiyor. Bu kütüphaneleri indirmek için dosyanın olduğu konumda, terminali açıp aşağıdaki komutları yazmanız yeterli olacaktır. 
 
