@@ -154,12 +154,16 @@ Verileri yorumlamak istersek :
 * **reviewerID :** Yorum yapan kişileri ifade eden değişken
 * **asin :** Ürünü ifade eden değişken
 * **reviewerName :** Yorum yapan kişilerin isimleri ifade eden değişken
-* **helpful :** Yorumların faydalı olup olmadığına dair değişken
+* **helpful :** Yorumların faydalı olup olmadığına dair değişken, soldaki değer faydalı bulmayı, sağdaki değer ise faydalı bulmamayı gösterir.
 * **reviewText :** Yorumları ifade eden değişken (bizi ilgilendiren asıl kısım)
 * **overall :** Verdiği puanı ifade eden değişken
 * **summary :** Yorumların özeti niteliğinde tanımlanmış değişken
 * **unixReviewTime :** Yorumun Unix zaman damgasını(timestamp) ifade eden değişken (Unix zaman damgası, 1970-01-01 00:00:00'den itibaren geçen saniye sayısını temsil eder. Bu tür bir zaman temsil biçimi genellikle hesaplama ve karşılaştırma işlemlerinde kullanılır. Bu sütundaki değerler, yorumun ne zaman yapıldığını gösterir.)
 * **reviewTime :** Yorumun yazıldığı tarihi ifade eden  değişken
 * **day_diff :** Yorumun yapıldığı tarih ile referans tarih arasındaki gün sayısını gösteren değişken (Genellikle, referans tarih, veri setinin incelendiği tarihi temsil eder.)
+* helpful_yes : *helpful* değişkeninin açılmış halinden biridir. Faydalı yorumları gösteren değişken
+* total_vote : *helpful* değişkeninde yer alan faydalı ve faydalı olmayan birimlerin toplanılmış halini gösterir.
+
+Buradaki değişkenleri anlamadıysanız korkmayın. Bizim odak noktamız **reviewText** değişkeni olacaktır.  
 
 
