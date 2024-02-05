@@ -1,4 +1,4 @@
-![image](https://github.com/YakuphanBlmz/Amazon_Reviews_NLP/assets/106194461/c963167a-4e8d-4748-bd98-28c9a8a97c1a)#  Natural Language Processing 
+#  Natural Language Processing 
 
 ## Doğal Dil İşleme Nedir?
 
