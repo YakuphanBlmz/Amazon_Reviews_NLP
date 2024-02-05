@@ -37,4 +37,27 @@ Projeye başlayabilmemiz adına, doğal dil işlemede kullanılan yaygınca küt
 
 Her projede kütüphaneler eklenir fakat bu kütüphanelerin içeriğini bilmek de önemlidir. Dilerseniz eklediğimiz kütüphanelerin ne olduğuna bir bakalım.
 
+#### NLTK (Natural Language Toolkit)
+NLTK (Natural Language Toolkit), doğal dil işleme (NLP) uygulamaları geliştirmek için kullanılan bir Python kütüphanesidir. NLTK, dil analizi, metin madenciliği, konuşma tanıma, çeviri ve daha birçok NLP görevi için araçlar ve kaynaklar sunar. İşte NLTK'nin temel özellikleri ve neden kullanılması gerektiğiyle ilgili bazı nedenler:
+
+* **Çok Kapsamlı Dil Veritabanı:** NLTK, dilbilimi ve dil işleme araştırmalarında kullanılan geniş bir dil veritabanına sahiptir. Bu, dil analizi ve işleme görevlerinde kullanılan modellerin ve kaynakların geniş bir yelpazesine erişim sağlar.
+* **Metin Madenciliği ve Analizi:** NLTK, metin madenciliği uygulamaları için özellikle güçlüdür. Metin içindeki kelime frekansı analizi, kelime bulutları oluşturma, belirli kelime türlerini ayıklama ve metin madenciliği uygulamalarında kullanılan birçok aracı içerir.
+* **Konuşma Tanıma:** NLTK, konuşma tanıma uygulamalarında kullanılmak üzere bir dizi araç ve algoritma içerir. Sesli komutları anlamak, sesli metinleri yazıya dönüştürmek gibi görevleri gerçekleştirebilir.
+* **Çeviri Sistemleri:** NLTK, dil çevirisi uygulamalarında kullanılabilecek çeşitli çeviri modellerini içerir. Özellikle dilbilim temelli çeviri uygulamaları için kullanışlıdır.
+* **Dil İstatistikleri ve Sınıflandırma:** NLTK, dilin istatistiksel özelliklerini analiz etmek ve metin sınıflandırma gibi görevlerde kullanılan makine öğrenimi modellerini uygulamak için araçlar içerir.
+* **Eğitim ve Öğrenme Kaynakları:** NLTK, dil işleme ve makine öğrenimi konularında eğitim ve öğrenme kaynakları içerir. Bu kaynaklar, NLP konusundaki temel kavramları öğrenmek ve uygulamak için kullanışlıdır.
+
+NLTK, geniş bir topluluk tarafından desteklenmekte ve sürekli olarak güncellenmektedir. Bu nedenle, NLP uygulamaları geliştirmek isteyen geliştiriciler için güvenilir bir kaynaktır. Ancak, son dönemde diğer popüler NLP kütüphaneleri de gelişmiş ve kullanım açısından daha kolay hale gelmiştir, bu yüzden projenin ihtiyaçlarına en uygun kütüphaneyi seçmek önemlidir. Gereksiz yere kütüphane kullanmanın da olumsuz etkileri vardır.
+
+##### EK BİLGİ : Gereksiz Kütüphane Kullanımı 
+* **Proje Boyutu ve Performans:** Gereksiz kütüphaneleri projenize eklemek, proje boyutunu artırabilir ve gereksiz kaynak kullanımına yol açabilir. Bu durum, projenizin performansını etkileyebilir, özellikle de büyük veri setleri veya düşük kaynaklı cihazlarla çalışılıyorsa.
+
+* **Bağımlılıklar ve Güvenlik Riskleri:** Gereksiz kütüphaneler, projenizin dış bağımlılıklarını artırabilir. Bu, projenizin güvenliği için bir risk oluşturabilir, çünkü her bağımlılık potansiyel bir güvenlik açığı içerebilir. Ayrıca, projenizi güncel tutmak ve bağımlılıkları yönetmek daha zor olabilir.
+
+* **Geliştirme ve Bakım Zorluğu:** Gereksiz kütüphaneleri kullanmak, kodunuzu karmaşıklaştırabilir ve geliştirme sürecini zorlaştırabilir. Bu, ekibinizin veya gelecekteki geliştiricilerin projeyi anlamasını ve bakımını yapmasını zorlaştırabilir.
+
+* **Kod Temizliği ve Anlaşılırlık:** Gereksiz kütüphaneleri kullanmak, projenizin kod temizliğini ve anlaşılırlığını azaltabilir. Bu da kodunuzu okumak, anlamak ve üzerine çalışmak için daha fazla zaman harcanmasına neden olabilir.
+
+* **Gereksiz Özellikler:** Gereksiz kütüphaneler, projenizin ihtiyaçlarına uygun olmayan özellikleri içerebilir. Bu durum, projenizin gereksiz karmaşıklığı artırabilir ve kullanıcılara istemedikleri veya kullanmadıkları özelliklerle karşılaşma riski verebilir.
+
 
