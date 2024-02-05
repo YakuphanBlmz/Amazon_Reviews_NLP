@@ -149,5 +149,17 @@ Veri setimiz Amazon'daki bir ürünün yorumlarıdır. Gerçek bir veri setidir.
 
 ![image](https://github.com/YakuphanBlmz/Amazon_Reviews_NLP/assets/106194461/5c1160d7-2206-4c65-9e84-d86dcc703e61)
 
+Verileri yorumlamak istersek : 
+
+* **reviewerID :** Yorum yapan kişileri ifade eden değişken
+* **asin :** Ürünü ifade eden değişken
+* **reviewerName :** Yorum yapan kişilerin isimleri ifade eden değişken
+* **helpful :** Yorumların faydalı olup olmadığına dair değişken
+* **reviewText :** Yorumları ifade eden değişken (bizi ilgilendiren asıl kısım)
+* **overall :** Verdiği puanı ifade eden değişken
+* **summary :** Yorumların özeti niteliğinde tanımlanmış değişken
+* **unixReviewTime :** Yorumun Unix zaman damgasını(timestamp) ifade eden değişken (Unix zaman damgası, 1970-01-01 00:00:00'den itibaren geçen saniye sayısını temsil eder. Bu tür bir zaman temsil biçimi genellikle hesaplama ve karşılaştırma işlemlerinde kullanılır. Bu sütundaki değerler, yorumun ne zaman yapıldığını gösterir.)
+* **reviewTime :** Yorumun yazıldığı tarihi ifade eden  değişken
+* **day_diff :** Yorumun yapıldığı tarih ile referans tarih arasındaki gün sayısını gösterir. (Genellikle, referans tarih, veri setinin incelendiği tarihi temsil eder.)
 
 
