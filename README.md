@@ -34,6 +34,8 @@ Projeye başlayabilmemiz adına, doğal dil işlemede kullanılan yaygınca küt
 * ```pip install nltk```
 * ```pip install textblob```
 * ```pip install wordcloud```
+* ```pip install -U scikit-learn```
+
 
 Her projede kütüphaneler eklenir fakat bu kütüphanelerin içeriğini bilmek de önemlidir. Dilerseniz eklediğimiz kütüphanelerin ne olduğuna bir bakalım.
 
@@ -115,6 +117,29 @@ WordCloud için iki adet kaynak önerebilirim. Bunlar :
 * [PyPI](https://pypi.org/project/wordcloud/)
 * [Andreas C. Müller Github](https://amueller.github.io/word_cloud/)
 
+### Scikit-Learn 
+scikit-learn, Python programlama dilinde kullanılan açık kaynaklı bir makine öğrenimi kütüphanesidir. Genellikle kısaltması olarak sklearn olarak da bilinir. scikit-learn, bir dizi makine öğrenimi algoritması, veri madenciliği ve veri analizi araçları içerir. İşte scikit-learn'ün temel özellikleri :
 
+* **Basit ve Kullanımı Kolay:** scikit-learn, kullanımı kolay ve iyi belgelenmiş bir API'ye sahiptir. Bu, hem başlangıç seviyesindeki kullanıcılar hem de deneyimli makine öğrenimi uzmanları için uygun bir tercih yapılmasını sağlar.
+
+* **Geniş Algoritma Desteği:** scikit-learn, sınıflandırma, regresyon, kümeleme, boyut azaltma ve model seçimi gibi çeşitli makine öğrenimi algoritmalarını içerir. Bu, projelerinizde farklı görevlere uygun algoritmalar seçmenizi sağlar.
+
+* **Veri Ön İşleme ve Feature Engineering Araçları:** scikit-learn, veri ön işleme ve özellik mühendisliği konularında bir dizi araç sunar. Özellikle veri temizleme, ölçekleme, dönüştürme ve eksik veri yönetimi gibi işlemleri kolayca gerçekleştirebilirsiniz.
+
+* **Model Seçimi ve Değerlendirme:** scikit-learn, farklı modelleri karşılaştırma ve en uygun modeli seçme konusunda yardımcı olan araçlar içerir. Ayrıca, çeşitli metrikler kullanarak modellerin performansını değerlendirmenizi sağlar.
+
+* **Paralel İşleme ve Dağıtılmış Hesaplama Desteği:** Bazı algoritmalar, veri setinin büyüklüğü nedeniyle uzun sürebilir. scikit-learn'ün bazı bölümleri paralel işleme ve dağıtılmış hesaplama yeteneklerini destekler, bu da performansı artırabilir.
+
+* **Topluluk Desteği ve Sürekli Gelişim:** scikit-learn, büyük bir açık kaynaklı topluluk tarafından desteklenir ve sürekli olarak geliştirilmektedir. Bu, kullanıcılar için güncel ve desteklenen bir kaynak olmasını sağlar.
+
+Neden bu kütüphaneyi kullananayım ki? Çünkü :
+
+* **Başlangıç Seviyesi İçin İdeal:** scikit-learn, makine öğrenimi konusunda yeni olanlar için ideal bir başlangıç noktasıdır. Basit ve tutarlı bir API, öğrenme sürecini kolaylaştırır.
+
+* **Hızlı Prototip Oluşturma:** Projelerinizi hızlı bir şekilde prototiplemek ve farklı algoritmaları denemek için uygundur.
+
+* **Endüstri Standartlarına Uygunluk:** scikit-learn, birçok endüstri standardına ve iyi kabul edilmiş makine öğrenimi yöntemlerine uygunluğu ile bilinir.
+
+* **Esnek ve Genişletilebilir:** scikit-learn, kullanıcıların kendi algoritmalarını entegre etmelerine ve kütüphaneyi genişletmelerine olanak tanıyan bir yapı sunar.
 
 
