@@ -35,6 +35,7 @@ Projeye başlayabilmemiz adına, doğal dil işlemede kullanılan yaygınca küt
 * ```pip install textblob```
 * ```pip install wordcloud```
 * ```pip install -U scikit-learn```
+* ```pip install pyarrow``` *(Gerekebilir)*
 
 
 Her projede kütüphaneler eklenir fakat bu kütüphanelerin içeriğini bilmek de önemlidir. Dilerseniz eklediğimiz kütüphanelerin ne olduğuna bir bakalım.
