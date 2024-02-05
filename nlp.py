@@ -6,12 +6,14 @@
 # Sentiment Analysis and Sentiment Modeling for Amazon Reviews
 ##################################################
 
+# Süreç Adımlarımız : 
 # 1. Text Preprocessing
 # 2. Text Visualization
 # 3. Sentiment Analysis
 # 4. Feature Engineering
 # 5. Sentiment Modeling
 
+# Yüklenilmesi Gereken Kütüphaneler
 # !pip install nltk
 # !pip install textblob
 # !pip install wordcloud
