@@ -1,4 +1,4 @@
-#  Natural Language Processing 
+![image](https://github.com/YakuphanBlmz/Amazon_Reviews_NLP/assets/106194461/c963167a-4e8d-4748-bd98-28c9a8a97c1a)#  Natural Language Processing 
 
 ## Doğal Dil İşleme Nedir?
 
@@ -142,5 +142,12 @@ Neden bu kütüphaneyi kullananayım ki? Çünkü :
 * **Endüstri Standartlarına Uygunluk:** scikit-learn, birçok endüstri standardına ve iyi kabul edilmiş makine öğrenimi yöntemlerine uygunluğu ile bilinir.
 
 * **Esnek ve Genişletilebilir:** scikit-learn, kullanıcıların kendi algoritmalarını entegre etmelerine ve kütüphaneyi genişletmelerine olanak tanıyan bir yapı sunar.
+
+
+## Veri Setimiz 
+Veri setimiz Amazon'daki bir ürünün yorumlarıdır. Gerçek bir veri setidir. Bir örneğini incelediğimizde :  
+
+![image](https://github.com/YakuphanBlmz/Amazon_Reviews_NLP/assets/106194461/5c1160d7-2206-4c65-9e84-d86dcc703e61)
+
 
 
