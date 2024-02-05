@@ -32,8 +32,8 @@ Bir metin sınıflandırma süreci, veri bilimi sürecine oldukça benzerdir. Ve
 Projeye başlayabilmemiz adına, doğal dil işlemede kullanılan yaygınca kütüphanelerin indirilmesi gerekiyor. Bu kütüphaneleri indirmek için dosyanın olduğu konumda, terminali açıp aşağıdaki komutları yazmanız yeterli olacaktır. 
 
 ```pip install nltk
-```pip install textblob
-```pip install wordcloud
+* pip install textblob
+* pip install wordcloud
 
 Her projede kütüphaneler eklenir fakat bu kütüphanelerin içeriğini bilmek de önemlidir. Dilerseniz eklediğimiz kütüphanelerin ne olduğuna bir bakalım.
 
