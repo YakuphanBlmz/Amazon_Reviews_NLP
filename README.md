@@ -167,3 +167,7 @@ Verileri yorumlamak istersek :
 Buradaki değişkenleri anlamadıysanız korkmayın. Bizim odak noktamız **reviewText** değişkeni olacaktır.  
 
 
+# Text Preprocessing (Metin Ön İşleme)
+İlk önce veri setini okutmamız gerekir. Bunun için şu komudu kullanabiliriz. 
+
+```df = pd.read_csv("C:/Users/yakup/OneDrive/Masaüstü/nlp/nlp/datasets/amazon_reviews.csv", sep=",")```
