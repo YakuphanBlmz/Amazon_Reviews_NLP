@@ -170,4 +170,4 @@ Buradaki değişkenleri anlamadıysanız korkmayın. Bizim odak noktamız **revi
 # Text Preprocessing (Metin Ön İşleme)
 İlk önce veri setini okutmamız gerekir. Bunun için şu komudu kullanabiliriz. 
 
-```df = pd.read_csv("C:/Users/yakup/OneDrive/Masaüstü/nlp/nlp/datasets/amazon_reviews.csv", sep=",")```
+```df = pd.read_csv("datasets/amazon_reviews.csv", sep=",")```
